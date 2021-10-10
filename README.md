@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatCoding&show_icons=true&theme=radical)
+![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatCoding&show_icons=true&theme=gruvbox)
 
 
 
